@@ -1,0 +1,9 @@
+*{
+    background-color: #069994;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+#calendar{
+    width: 40%;
+}
